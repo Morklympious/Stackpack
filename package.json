@@ -24,7 +24,7 @@
     "minifyify": "^7.3.2",
     "mithril": "^0.2.2-rc.1",
     "modular-css": "^0.19.0",
-    "postcss-import": "^8.0.2",
+    "postcss-import": "^8.1.1",
     "shelljs": "^0.7.0",
     "watchify": "^3.7.0"
   }

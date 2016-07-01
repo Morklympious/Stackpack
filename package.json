@@ -20,7 +20,7 @@
   "author": "Bradley Stafford",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "^13.0.0",
+    "browserify": "^13.0.1",
     "ecstatic": "^1.4.0",
     "eslint": "^2.9.0",
     "eslint-config-google": "^0.5.0",
